@@ -1,3 +1,1 @@
-# Welcome to my GitHub!
-
-My name's Vincent. I'm a software engineer who loves music. If you don't find me inside playing cello or piano (check out my [social media](https://www.tiktok.com/@musicbyvince)!), you'll usually find me out on a nature run or with a good book.
+Welcome to my GitHub! My name's Vincent. I'm a software engineer who loves music. If you don't find me inside playing cello or piano (check out my [social media](https://www.tiktok.com/@musicbyvince)!), you'll usually find me out on a nature run or with a good book.
